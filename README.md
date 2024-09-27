@@ -30,6 +30,7 @@ Es un software que permite gestionar, almacenar o editar fácilmente la informac
 | ... | ... |
 
 ## 6 ¿Qué es HTML ?
+
 ```<!DOCTYPE html>
 <html lang="en">
 <head> 
