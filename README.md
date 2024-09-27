@@ -21,6 +21,7 @@ Es un software que permite gestionar,almacenar o editar facilmente la informacio
 ## 5 Herramientas de Google
 
 | Aplicaciones | Visto |
+|--------------|-------|
 | Google Docs  | ![TICK](https://github.com/DiegooMonteroo/SMX2M8UF1A2-Evaluaci-n/blob/main/Captura%20de%20pantalla%202024-09-27%20152658.png) |
 | Google Slides |![TICK](https://github.com/DiegooMonteroo/SMX2M8UF1A2-Evaluaci-n/blob/main/Captura%20de%20pantalla%202024-09-27%20152658.png) |
 | Google Sheets |![TICK](https://github.com/DiegooMonteroo/SMX2M8UF1A2-Evaluaci-n/blob/main/Captura%20de%20pantalla%202024-09-27%20152658.png) |
