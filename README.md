@@ -7,12 +7,12 @@ Es un documento digital que se puede ver por Internet, puede llevar imágenes, t
 
 ## 2 Qué es un sitio web?
 
-Conjunto de páginas web en grupo bajo una mismo dominio o dirección de internet, puede incluir distintas secciones como contactos, servicios y mas cosas
+Conjunto de páginas web en grupo, bajo un mismo dominio o dirección de internet, puede incluir distintas secciones como contactos, servicios y mas cosas
 
 
 ## 3 ¿Qué es una aplicación web?
 
-Es un programa que se ejecuta en el programa web que permite que los usuarios pueden interactuar con el para hacer tareas, editar documentos entre otras cosas
+Es un programa que se ejecuta en el programa web, que permite que los usuarios pueden interactuar con el para hacer tareas, editar documentos entre otras cosas
 
 ## 4 ¿Qué es una herramienta ofimática?
 
@@ -45,7 +45,7 @@ Es un software que permite gestionar, almacenar o editar fácilmente la informac
 ```
 ## 7 ¿Qué es CSS?
 
-Es un lenguaje importante utilizado para manejar y editar el diseño de las paginas web,osea es lo que los usuarios ven cuando entran a la web.
+Es un lenguaje importante utilizado para manejar y editar el diseño de las paginas web, ósea es lo que los usuarios ven cuando entran a la web.
 
 
 ## 8 Flujo de trabajo (navegador, petición, servidor y respuesta)
