@@ -3,20 +3,20 @@ Repositorio
 
 ## 1 ¿Qué es una página web?
 
-Es un documento digital que se puede ver por Internet, puede llevar imágenes, texto,enlaces entre otras cosas.
+Es un documento digital que se puede ver por Internet, puede llevar imágenes, texto, enlaces entre otras cosas.
 
 ## 2 Qué es un sitio web?
 
-Conjunto de páginas web en grupo bajo una mismo dominio o direccion de internet, puede incluir distintas secciones como contactos, servicios y mas cosas
+Conjunto de páginas web en grupo bajo una mismo dominio o dirección de internet, puede incluir distintas secciones como contactos, servicios y mas cosas
 
 
 ## 3 ¿Qué es una aplicación web?
 
-Es un programa que se ejecuta en el programa web que permite que los usuarios pueden interecturar con el para hacer tareas, editar documentos entre otras cosas
+Es un programa que se ejecuta en el programa web que permite que los usuarios pueden interactuar con el para hacer tareas, editar documentos entre otras cosas
 
 ## 4 ¿Qué es una herramienta ofimática?
 
-Es un software que permite gestionar,almacenar o editar facilmente la informacion, para realizar esto debe estar conectado a internet si o si 
+Es un software que permite gestionar, almacenar o editar fácilmente la información, para realizar esto debe estar conectado a internet si o si 
 
 ## 5 Herramientas de Google
 
@@ -43,7 +43,12 @@ Es un software que permite gestionar,almacenar o editar facilmente la informacio
 </body>
 </html>
 ```
-## 7 Flujo de trabajo (navegador, petición, servidor y respuesta)
+## 7 ¿Qué es CSS?
+
+Es un lenguaje importante utilizado para manejar y editar el diseño de las paginas web,osea es lo que los usuarios ven cuando entran a la web.
+
+
+## 8 Flujo de trabajo (navegador, petición, servidor y respuesta)
 
 ![Captura2](https://github.com/DiegooMonteroo/SMX2M8UF1A2-Evaluaci-n/blob/main/Captura%202.png)
 
