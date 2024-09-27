@@ -42,7 +42,7 @@ Es un software que permite gestionar,almacenar o editar facilmente la informacio
 
 </body>
 </html>
-
+```
  7 Flujo de trabajo (navegador, petición, servidor y respuesta)
 
 ![Captura2](https://github.com/DiegooMonteroo/SMX2M8UF1A2-Evaluaci-n/blob/main/Captura%202.png)
