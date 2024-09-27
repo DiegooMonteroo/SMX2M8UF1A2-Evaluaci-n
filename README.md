@@ -1,4 +1,4 @@
-# SMX2M8UF1A2-Evaluaci-n
+# SMX2M8UF1A2-Evaluación
 Repositorio
 
 ## 1 ¿Qué es una página web?
