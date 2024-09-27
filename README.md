@@ -34,7 +34,7 @@ Es un software que permite gestionar,almacenar o editar facilmente la informacio
 <html lang="en">
 <head> 
 	<meta charset="UTF-8">
-	<meta http-equiv="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title
 </head>
